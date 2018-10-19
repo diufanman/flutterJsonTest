@@ -1,0 +1,16 @@
+{
+  "id":1,
+  "desc":"Parent 1",
+  "children":[
+    {
+      "id":1,
+      "parentId":1,
+      "desc":"Child 1"
+    },
+    {
+      "id":2,
+      "parentId":1,
+      "desc":"Child 2"
+    }
+  ]
+}
